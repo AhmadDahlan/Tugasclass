@@ -31,3 +31,7 @@ int main(){
 	cout<<"Ular Piton "<< (piton.perilaku) << (piton.habitat) << (piton.makanan);
 	piton.beracun("Gigitan Yang Sangat Kuat"); 
 }
+
+void ular::beracun(string racun){
+	cout<<"Mempunyai "<<racun<<"\n";
+}
