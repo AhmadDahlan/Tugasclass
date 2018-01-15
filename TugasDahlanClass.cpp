@@ -23,4 +23,11 @@ int main(){
 	kobra.makanan = "Makanannya Tikus ";
 	derik.makanan = "Makanannya Katak ";
 	piton.makanan = "Makanannya Kerbau ";
+	
+	cout<<"Ular Kobra "<< (kobra.perilaku) << (kobra.habitat) << (kobra.makanan);
+	kobra.beracun("Racun Yang Sangat Mematikan");
+	cout<<"Ular Derik "<< (derik.perilaku) << (derik.habitat) << (derik.makanan);
+	derik.beracun("Racun Yang Mematikan");
+	cout<<"Ular Piton "<< (piton.perilaku) << (piton.habitat) << (piton.makanan);
+	piton.beracun("Gigitan Yang Sangat Kuat"); 
 }
