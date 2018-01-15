@@ -16,4 +16,7 @@ int main(){
 	derik.perilaku = "Berperilaku Agresive ";
 	piton.perilaku = "Berperilaku Tenang ";
 	
+	kobra.habitat = "Habitatnya Di Hutan ";
+	derik.habitat = "Habitatnya Di Gurun Pasir ";
+	piton.habitat = "Habitatnya Di Rawa ";
 }
