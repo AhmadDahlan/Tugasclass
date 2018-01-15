@@ -19,4 +19,8 @@ int main(){
 	kobra.habitat = "Habitatnya Di Hutan ";
 	derik.habitat = "Habitatnya Di Gurun Pasir ";
 	piton.habitat = "Habitatnya Di Rawa ";
+	
+	kobra.makanan = "Makanannya Tikus ";
+	derik.makanan = "Makanannya Katak ";
+	piton.makanan = "Makanannya Kerbau ";
 }
