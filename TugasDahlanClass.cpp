@@ -10,5 +10,6 @@ class ular{
 };
 
 int main(){
+	ular kobra, derik, piton;
 	
 }
