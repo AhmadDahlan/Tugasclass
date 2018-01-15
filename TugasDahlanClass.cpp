@@ -12,4 +12,8 @@ class ular{
 int main(){
 	ular kobra, derik, piton;
 	
+	kobra.perilaku = "Berperilaku Agresive ";
+	derik.perilaku = "Berperilaku Agresive ";
+	piton.perilaku = "Berperilaku Tenang ";
+	
 }
